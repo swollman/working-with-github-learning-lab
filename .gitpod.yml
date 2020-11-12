@@ -3,5 +3,4 @@ image:
 
 tasks:
     - command: echo $PATH
-
-    
+  
